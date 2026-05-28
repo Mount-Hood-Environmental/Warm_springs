@@ -14,9 +14,9 @@ theme_set(theme_bw() +
             ) +
             theme(strip.background = element_blank(),
                   panel.border = element_rect(color = "black", fill = NA, linewidth = 0.8)))
-mhe_data <- lapply(excel_sheets("~/GitHub/Warm_springs_dataproj/data/cdms_database/Temp_Discharge_MHE.xlsx"), 
-                   read_excel, path = "~/GitHub/Warm_springs_dataproj/data/cdms_database/Temp_Discharge_MHE.xlsx")
-names(mhe_data) <- excel_sheets("~/GitHub/Warm_springs_dataproj/data/cdms_database/Temp_Discharge_MHE.xlsx")
+mhe_data <- lapply(excel_sheets("~/GitHub/Warm_Springs/data/cdms_database/Temp_Discharge_MHE.xlsx"), 
+                   read_excel, path = "~/GitHub/Warm_Springs/data/cdms_database/Temp_Discharge_MHE.xlsx")
+names(mhe_data) <- excel_sheets("~/GitHub/Warm_Springs/data/cdms_database/Temp_Discharge_MHE.xlsx")
 
 list2env(mhe_data, envir = .GlobalEnv)
 
