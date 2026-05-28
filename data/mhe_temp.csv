@@ -1,0 +1,528 @@
+site_code,location,river,year,month,temp_max,temp_min,temp_avg,x,y
+BN1400,Baldwin Creek,Baldwin Creek,2000,May,14.35,9.38,11.545138888888891,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2000,June,18.17,7.68,13.141291666666667,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2000,July,18.82,10.63,14.398790322580648,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2000,August,18.33,10.32,14.501303763440857,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2000,September,17.36,6.75,12.864069444444445,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2000,October,14.19,4.41,9.173588709677418,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2000,November,9.53,-0.03,3.849472222222223,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2000,December,4.72,-0.68,2.312266666666667,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,January,4.4,0.76,2.9177822580645163,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,February,7.06,1.24,3.8771450617283953,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,March,10.44,2.36,6.534502688172044,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,April,16.19,3.93,8.533299516908212,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,May,18.26,6.57,11.73273611111111,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,June,17.86,8.32,12.666347222222223,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,July,18.34,11.11,14.681801075268815,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,August,18.66,11.26,15.126559139784947,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,September,16.58,8.63,13.757976190476189,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,October,13.13,4.6,8.718001613,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,November,10.18,0.49,6.303194444,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2001,December,7.55,4.13,5.96877193,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2004,June,NA,NA,13.9,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2004,July,NA,NA,15.5,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2004,August,NA,NA,14.6,-121.59255,45.564883
+BN1400,Baldwin Creek,Baldwin Creek,2004,September,NA,NA,12.1,-121.59255,45.564883
+LH1260,Lake Branch,Lake Branch,2004,June,NA,NA,9.7,-121.6984,45.544117
+LH1260,Lake Branch,Lake Branch,2004,July,NA,NA,11.5,-121.6984,45.544117
+LH1260,Lake Branch,Lake Branch,2004,August,NA,NA,11.6,-121.6984,45.544117
+LH1260,Lake Branch,Lake Branch,2004,September,NA,NA,9.9,-121.6984,45.544117
+MK1640,Middle Fork,Middle Fork,1994,January,4.3,1.9,3,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,February,5.7,-0.1,3.3,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,March,8.9,2.4,4.8,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,April,11.3,4.6,7.1,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,May,13.8,6,8.8,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,June,14.7,5.6,9.7,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,July,14.6,5.4,10.2,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,August,14.1,7.3,10.4,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,September,14,8,10.4,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,October,12.3,4.9,7.5,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,November,5.7,1.8,3.9,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1994,December,5.2,1,3.3,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1995,January,4.6,0.4,2.9,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1995,February,6.1,0.7,3.9,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1995,March,7.8,2,4.5,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1995,April,8.8,4.6,6.3,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1995,August,12.9,7.8,10.3,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1995,September,13.8,7.8,10.3,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1995,October,12,3.7,7.8,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1995,November,7.6,2.9,5.9,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1995,December,6.4,-1.5,2.6,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,January,5,-1.7,3,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,February,5.6,-0.2,2.6,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,March,6.4,1.4,4.4,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,April,9,4.1,6.1,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,May,11.2,4.8,7.6,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,June,12.7,6.1,9.3,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,July,13.4,6,10.1,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,August,13.3,6.9,10,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,September,12.8,7.1,9.8,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,October,11.3,4.9,7.7,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,November,7.1,0.2,4.9,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1996,December,4.6,-0.1,2.8,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,January,7.4,0,2.9,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,February,5.3,2,3.4,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,March,6.3,1.3,4,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,April,8.1,2.9,5.4,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,May,11,4.4,8,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,June,12.7,6.1,9.1,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,July,14,6,9.8,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,August,14,6.6,9.5,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,September,12,7.6,9.8,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,October,10,6.2,7.4,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,November,8.1,2.9,5.751388888888889,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1997,December,4.8,2,3.4496794871794876,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,January,5.1,-0.1,3.090591397849462,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,February,5.2,2.6,4.100892857142857,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,March,7.1,2.6,4.737903225806452,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,April,11.1,3.9,6.379166666666666,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,May,12.3,5.8,8.100061576354681,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,June,13.6,6.2,9.921388888888888,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,July,14.04,6.44,9.865347222222223,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,August,13.73,6.75,10.03771505376344,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,September,13.73,7.68,10.448194444444445,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,October,11.87,5.34,9.162339743589742,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,November,8.08,2.94,5.746875,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1998,December,4.82,-0.07,2.864391026,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,January,5.91,2.32,3.925981183,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,February,4.98,1.52,3.492217262,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,March,7,2.47,4.202298387,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,April,10.09,3.11,5.750166667,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,May,12.18,4.36,7.261527778,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,June,14.04,5.81,9.141638889,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,July,13.27,5.81,9.02466954,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,August,13.12,6.28,9.312862903,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,September,13.27,6.59,9.700152778,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,October,11.56,4.09,7.592849462,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,1999,November,9.23,4.41,5.957552083,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2000,May,11.38,6.43,8.526666667,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2000,June,13.25,5.65,8.937875,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2000,July,14.02,6.12,9.441169355,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2000,August,14.02,6.28,9.506115591,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2000,September,12.94,6.12,9.253722222,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2000,October,10.15,4.87,7.189973118,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2000,November,7.83,1.24,3.989930556,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2000,December,4.55,0.12,2.887772436,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,January,4.39,0.93,2.943037634,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,February,5.33,0,2.750142829,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,March,7.54,0.79,4.365846774,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,April,11.73,2.54,5.734233537,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,May,14.36,1.59,8.061024764,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,June,15.14,5.82,9.135083333,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,July,14.98,6.13,10.14431452,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,August,15.14,6.91,10.24431452,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,September,14.17,8.13,10.76296825,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,October,12.93,4.71,7.895103226,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,November,8.28,0.11,5.447152778,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2001,December,5.17,1.39,3.673285256,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2002,January,4.71,1.87,3.495658602,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2002,February,6.27,2.03,3.709910714,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2002,March,7.51,2.18,4.047956989,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2002,April,9.52,3.45,5.787443841,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2002,May,12,4.23,7.595067204,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2002,June,13.55,5.64,8.873854167,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2004,June,NA,NA,9.8,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2004,July,NA,NA,10.4,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2004,August,NA,NA,10.5,-121.62595,45.5235
+MK1640,Middle Fork,Middle Fork,2004,September,NA,NA,10.1,-121.62595,45.5235
+NL310,Neal Creek,Neal Creek,2004,June,NA,NA,13.4,-121.526267,45.663267
+NL310,Neal Creek,Neal Creek,2004,July,NA,NA,15.5,-121.526267,45.663267
+NL310,Neal Creek,Neal Creek,2004,August,NA,NA,15.7,-121.526267,45.663267
+NL310,Neal Creek,Neal Creek,2004,September,NA,NA,12.3,-121.526267,45.663267
+NL310,Neal Creek,Neal Creek,2004,October,NA,NA,10.7,-121.526267,45.663267
+HD300,Powerdale Fish ladder,Mainstem Hood River,1990,July,18.2,11,14.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1990,August,18.5,11.2,14.8,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1990,September,16.3,10,13.2,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1990,October,13.2,5.8,8.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1990,November,9.6,4.3,6.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1990,December,6.4,-0.1,3,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,January,5.9,0,2.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,February,8.1,3.7,5.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,March,10,2.6,5.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,April,11.8,4.1,7.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,May,13.4,6,9.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,June,16,7.8,11.7,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,July,17.6,11.3,14.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,August,18.8,11.6,15,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,September,15.9,8.6,12.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,October,13.4,2.4,8.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,November,9.4,3.3,6.1,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1991,December,7.5,2.8,5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1992,January,7.1,2.6,5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1992,February,8.5,3.7,6.1,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1992,March,11.3,4.7,7.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1992,April,13.1,5.2,8.8,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1992,May,17.1,6.6,12,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1992,June,16.8,12.6,14.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1992,November,7.4,2.9,5.1,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1992,December,5.5,0.1,3,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,January,5.1,-0.1,1.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,February,6.1,-0.1,3.2,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,March,8.1,0.1,4.7,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,April,9.8,4.9,7.2,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,May,13.4,6.4,9.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,June,16.3,8.6,11.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,July,16.3,10.7,13.1,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,August,18,10.1,14,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,September,16.1,7.5,12,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,October,13,5.6,9.4,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,November,8.6,-2,3.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1993,December,6,1.6,3.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,January,6.4,2.1,4.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,February,6.4,-0.1,3.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,March,10,3.2,5.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,April,12.3,5.2,8.3,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,May,15.9,6.6,10.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,June,17.3,8.5,12.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,July,19.6,10.3,15.4,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,August,19,12,15.3,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,September,15.9,10,13,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,October,13.6,3,8.8,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,November,8,1.2,5.2,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1994,December,6.6,1.7,4.7,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,January,6.8,0.7,4.1,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,February,8.1,0.9,5.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,March,9.2,2.7,6.2,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,April,11.3,5,8,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,May,15.4,7.4,10.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,June,16.7,8.2,12.1,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,July,17.9,11,14.4,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,August,18.3,10.2,13.8,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,September,16.4,8.9,13,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,October,11.8,3.3,8.8,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,November,9.4,2.1,7.2,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1995,December,8.5,1.2,4.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,January,7,0.1,4.6,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,February,8.9,0.1,4.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,March,9.2,2.3,6.2,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,April,11.4,4.9,7.7,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,May,12.9,5.7,9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,June,15.3,8.5,11.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,July,18,10.2,14.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,August,17.3,11.2,13.9,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,September,14.7,7.6,11.4,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,October,12,5.1,5.8,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1996,November,8.2,0.5,5.8,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,January,5.7,0.2,3.5642473118279567,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,February,6,2.7,4.317559523809523,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,March,7.8,2.7,5.13494623655914,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,April,8.8,3.7,6.24,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,May,11.1,4.9,8.749193548387096,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,June,14,8,10.821388888888887,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,July,15.5,9.8,12.876075268817205,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,August,16.4,11.1,13.567350928641256,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,September,14.9,9.1,11.695984848484848,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,October,11.8,5.3,8.340029325513196,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,November,8.9,3.2,6.403888888888888,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1997,December,6,2.7,3.9721153846153845,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,January,5.9,-0.3,3.8471847507331383,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,February,6,3.3,5.126785714285715,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,March,7.9,3.3,5.785752688172043,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,April,11,4.8,7.322701149425287,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,May,12,6.7,8.847557471,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,June,16.7,9.3,11.96472222,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,July,18.65,11.8,15.05693056,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,August,18.33,11.71,15.06712366,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,September,16.72,9.69,13.00955556,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,October,12.18,5.5,8.7988043480000009,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,November,8.46,4.41,6.4730833333333315,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1998,December,6.13,-0.03,3.6551923076923076,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,January,6.75,2.84,4.853064516129031,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,February,5.97,3.15,4.6152083333333325,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,March,7.84,3.47,5.373239247311829,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,April,10.01,3.93,6.595902777777778,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,May,11.56,4.87,7.904133947649573,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,June,13.87,6.12,10.028541666666666,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,July,15.75,7.98,12.22529569892473,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,August,16.07,9.53,13.473319892473118,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,September,13.56,6.43,10.991750000000001,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,October,11.23,4.87,7.753064516129032,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,November,9.68,4.09,6.4477777777777785,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,1999,December,6.73,2.82,5.295881410256412,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,January,5.48,2.03,3.6418377321603126,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,February,5.79,1.71,4.367011494252872,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,March,8.13,3.76,5.507728494623655,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,April,10.14,4.55,7.091694444444443,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,May,12.01,5.33,8.747528801843318,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,June,15.88,7.34,11.493041666666667,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,July,17.78,10.13,13.980698924731184,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,August,17.62,10.91,14.119529569892475,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,September,15.72,7.04,11.758402777777778,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,October,13.99,1.08,8.5525,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,November,9.97,-2.31,4.196896551724139,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2000,December,4.95,-1.42,2.5743108974358977,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2001,January,7.13,-0.28,3.253346774193549,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2001,February,12.96,2.04,3.705491071428572,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2001,March,7.53,2.84,5.285430107526882,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2001,April,11.4,3.62,6.867945652173914,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2001,May,14.67,4.56,9.041449275362316,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2002,January,7.49,1.53,4.44081989247312,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2002,February,7.18,2.96,4.9095643939393945,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2002,March,8.88,2.64,5.461906666666668,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2002,April,10.74,4.53,7.268783816425121,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2002,May,13.69,4.69,8.864838709677418,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2002,June,14.62,7.03,10.303298611111114,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2004,june,NA,NA,12.8,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2004,july,NA,NA,15.5,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2004,august,NA,NA,15.4,-121.5244,45.665517
+HD300,Powerdale Fish ladder,Mainstem Hood River,2004,september,NA,NA,12.2,-121.5244,45.665517
+EK1030,Trout Creek Bridge,East Fork Hood River,1990,July,20.4,9.3,14.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1990,August,21.1,9.5,14.8,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1990,September,18,7.4,12.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1990,October,13.6,3.7,7.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1990,November,9.3,2.7,5.6,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,March,11.8,3.5,7.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,April,13.4,3.2,7.9,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,May,18.7,4.7,11,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,June,22,8.2,14.4,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,July,22.8,10.6,16.1,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,August,22.8,8.5,15.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,September,18.7,6.4,11.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,October,12.4,3,8.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,November,8.4,1.3,4.8,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1992,December,4.8,-0.1,2,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,January,4.6,-0.2,1.3,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,February,6,-0.2,2.4,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,March,8.3,-0.1,4.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,April,10.7,3.8,6.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,May,13.4,5,8.8,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,June,17.1,6.7,10.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,July,17.3,8.1,12,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,August,17.7,7.8,12.3,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,September,17.4,5.3,11.2,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,October,12.7,4.1,8.4,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,November,8.3,-0.1,2.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1993,December,5.6,0.2,2.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,January,6.1,1.1,3.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,February,5.9,-0.4,2.8,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,March,10.3,1.9,5.2,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,April,12.8,3.8,7.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,May,15.3,4.4,9.3,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,June,18.3,6.5,11.6,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,July,21.6,8.3,15,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,August,20.6,10.3,15.1,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,September,17.1,8.5,12.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,October,13,3.8,7.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,November,6.4,0.9,3.9,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1994,December,5.9,0.4,3.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1995,January,6.2,-0.2,3.1,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1995,February,7.7,-0.1,4.6,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1995,March,9,1.5,5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1995,April,10.3,4.2,7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1995,August,15.6,9.3,12.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1995,September,16.7,7.1,11.9,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1995,October,11.5,1.6,7.6,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1995,November,8.5,1,6.2,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1995,December,6.8,-0.1,3.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,January,6,-0.4,3.6,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,February,6.2,-0.4,2.4,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,March,8.1,1.1,5.1,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,April,11.6,3.9,6.9,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,May,12.8,4.2,8,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,June,15.4,6.6,10.8,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,July,19,8.4,13.7,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,August,18.4,9.2,13.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,September,15.6,5.9,10.716666666666667,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,October,12.6,3.4,7.760752688172045,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,November,7.5,-0.6,4.528888888888889,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1996,December,5,-0.4,3.2064102564102566,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,January,5.7,0,3.0037634408602147,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,February,6.2,2,3.8591804029304027,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,March,9,1.6,4.980880141364013,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,April,10,3,6.293632478632479,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,May,12,4.2,8.40183848409655,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,June,14.6,6.1,9.983119658119659,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,July,17.2,8,12.531695992179865,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,August,18,9.9,13.400932400932398,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,September,16.2,7.4,11.318098290598293,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,October,11.1,3.7,7.5148826979472165,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,November,8.9,2.5,5.760064102564102,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1997,December,5,1.1,3.1275641025641026,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,January,6,-0.4,3.2363034814647715,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,February,6.4,2.2,4.716460622710623,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,March,9.3,2,5.57795698924731,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,April,12.9,3.6,7.164572649572649,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,May,13.6,5.4,8.163341543513958,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,June,18,7.4,11.14652777777778,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,July,19.92,10.15,14.423152777777778,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,August,20.24,9.37,14.484112903225805,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,September,18.31,7.83,12.209624999999996,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,October,11.69,3.93,8.491570512820513,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,November,8.74,2.66,5.485708333,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1998,December,6.11,-0.05,2.883653846,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1999,January,6.58,2.18,4.211337073,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1999,February,6.58,2.03,4.103883929,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1999,March,9.21,2.34,5.059327957,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1999,April,12.31,2.82,6.476138889,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1999,May,13.71,3.61,7.764247312,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,1999,June,14.48,4.71,8.823651961,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2000,January,4.24,0.28,2.313621795,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2000,February,5.97,0.44,3.667212644,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2000,March,9.85,2.36,5.074153226,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2000,April,11.87,3.31,7.027236111,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2000,May,13.88,4.09,8.446521505,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2000,June,17.84,5.81,11.096,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2000,July,17.84,8.46,12.87078431,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,February,5.66,0.61,3.32425,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,March,9.54,1.41,5.362298387,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,April,15.14,2.04,6.694415459,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,May,15.75,4.41,9.192643678,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,June,13.87,9.37,11.071375,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,July,15.43,12.01,13.97272849,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,August,16.38,13.41,14.74418011,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,September,17.06,8.34,13.01020833,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,October,12.06,4.77,8.390565591,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,November,9.89,0.19,5.430722222,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2001,December,5.55,0.83,3.551829837,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2002,January,5.55,2.1,4.186599462,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2002,February,7.41,1.63,4.097529762,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2002,March,9.42,1.15,4.608102501,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2002,April,10.51,3.36,6.647785024,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2002,May,12.52,5.08,7.819086022,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2002,June,12.52,6.33,8.697361111,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2004,June,NA,NA,12.5,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2004,July,NA,NA,15.2,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2004,August,NA,NA,15.2,-121.61748299999999,45.5725
+EK1030,Trout Creek Bridge,East Fork Hood River,2004,September,NA,NA,11.4,-121.61748299999999,45.5725
+WK1180,West Fork Bridge,West Fork Hood River,1990,July,15.4,8.5,11.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1990,August,15.6,9.1,11.9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1990,September,13.6,8.1,10.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1990,October,11.5,5,7.5,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1990,November,8.6,4.1,6.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1990,December,5.7,-0.4,2.9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,January,5.3,-0.3,2.9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,February,6.4,3.4,4.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,March,8,1.9,4.5,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,April,9.8,3.2,5.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,May,11.1,4.8,7.3,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,June,13.6,5.7,9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,July,15,8.7,11.4,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,August,15.5,9,12,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,September,13.1,6.9,10.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,October,11.3,1.7,7.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,November,8.5,2.9,5.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1991,December,6.6,1.8,4.5,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,January,6,1.8,4.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,February,6.7,3.5,5.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,March,9.7,4.1,6.3,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,April,10.7,4.1,7.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,May,14.3,5.7,9.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,June,17.1,8.2,11.9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,July,16.8,10,12.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,August,16.6,8.4,12.5,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,September,13.6,7.1,10.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,October,11.3,4.8,8.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,November,8.9,3.3,6.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1992,December,4.8,1.7,3.4,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,January,4.2,0.7,2.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,February,5.1,0,2.7,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,March,7.4,0.4,4.5,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,April,7.7,4.4,5.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,May,11.6,4.9,8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,June,13.4,7.2,9.4,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,July,13.4,8.2,10.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,September,13.2,5.8,9.7,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,October,11,5.1,8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,November,7.6,0,3.3,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1993,December,5.3,0.7,3.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,January,5.6,2.3,4.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,February,5,0,2.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,March,7.6,2.8,4.5,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,April,10,4.1,6.3,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,May,13.4,5,8.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,June,14.1,6.6,9.7,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,July,16.7,8.1,12.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,August,15.6,9.7,12.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,September,12.7,8.4,10.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,October,11.6,5.2,7.7,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,November,6.7,2.6,4.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1994,December,5.3,1.6,3.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,January,4.7,0.8,3.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,February,6.5,0.6,4.3,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,March,7.4,2.1,4.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,April,9.5,3.6,5.9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,May,13.1,5.3,8.3,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,June,13.9,6.7,9.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,July,15.3,8.8,11.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,August,15.2,8.3,11.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,September,13.3,7.4,10.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,October,10.3,3.5,7.9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,November,8.5,2.7,6.7,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1995,December,7.5,0.5,4.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,January,5.8,0.6,3.9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,February,5.1,0.3,3.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,March,6.1,2.3,4.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,April,8.5,4.4,6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,May,10,5.2,7.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,June,12.8,6.7,9.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,July,15,8.1,11.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,August,14.3,8.5,11.2,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,September,12.2,6.2,9.4,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,October,10.5,4.9,7.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,November,7.3,1.1,5.5,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1996,December,5.1,-0.4,3.4,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,January,4.9,-0.3,3,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,February,5.2,2.3,3.7,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,March,6.5,1.1,3.7,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,April,7.1,3.1,4.9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,May,9.8,3.7,7.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,June,12.5,6.7,9.1,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,July,13.4,7.8,10.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,August,14,9.3,11.3,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,September,12.6,7.8,9.9,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1997,October,10.2,7.1,8.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1998,May,12.3,5.5,7.233836996336996,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1998,June,13.7,7.5,9.84125,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1998,July,13.71,9.06,10.938602150537635,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1998,August,13.25,7.06,9.94065860215054,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1998,September,12.01,7.06,9.32186111111111,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1998,October,9.37,4.24,6.815587121212119,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1998,November,7.37,3.78,5.617694444,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1998,December,5.18,-0.52,2.933349359,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,January,5.81,1.24,3.910981183,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,February,4.4,1.56,3.226979167,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,March,6.43,1.88,3.795645161,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,April,8.29,2.68,4.744597222,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,May,9.53,2.99,5.666194444,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,June,11.69,5.03,8.063694444,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,July,13.71,6.74,9.977231183,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,August,13.87,8.29,10.9783871,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,September,11.38,5.34,8.857902778,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,October,9.68,4.24,6.665067204,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,November,8.91,3.78,6.015127137,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,1999,December,5.88,2.28,4.715544872,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,January,4.79,0.36,2.974522557,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,February,4.48,0.52,3.425977011,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,March,6.51,3.07,4.229005376,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,April,8.68,3.54,5.388875,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,May,10.07,4.17,6.604089573,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,June,12.78,4.87,8.613430556,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,July,14.49,7.37,10.36537634,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,August,14.02,7.52,10.60466398,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,September,12.47,4.87,9.039180556,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,October,10.77,4.24,6.879877419,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,November,7.06,0.6,3.582313218,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2000,December,3.93,0.12,2.429730938,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,January,3.93,0.92,2.719099462,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,February,5.49,1.08,2.6378125,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,March,5.65,1.72,3.730913978,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,April,8.91,2.36,4.762520531,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,May,12.01,3.62,7.23637219,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,June,13.25,5.65,8.700694444,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,July,14.64,8.13,10.92665323,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,August,14.8,8.91,11.54474462,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,September,13.22,7.34,10.21475556,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,October,9.97,4.87,7.437550538,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,November,8.43,2.19,5.914741379,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2001,December,5.18,1.05,4.239592593,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2002,January,4.68,2.01,3.621317204,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2002,February,5.62,2.16,3.798214286,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2002,March,6.71,1.69,3.888366325,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2002,April,8.25,3.43,5.291823671,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2002,May,9.33,3.58,6.521962366,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2002,June,11.2,5.77,7.810069444,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2004,may,NA,NA,7.6,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2004,june,NA,NA,9.5,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2004,july,NA,NA,11.8,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2004,august,NA,NA,12.3,-121.687217,45.55745
+WK1180,West Fork Bridge,West Fork Hood River,2004,september,NA,NA,10.2,-121.687217,45.55745
